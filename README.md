@@ -1,7 +1,7 @@
-Hi, I’m Eduardo Antoniassi ✌️
+**Hi, I’m Eduardo Antoniassi ✌️**
 
-I'm a Computer Science student.
-I want to expand my experience in the field and meet new people.
+**I'm a Computer Science student.**
+**I want to expand my experience in the field and meet new people.**
 
 
 - 🎓 I study at the State University of Paraná - UNESPAR
