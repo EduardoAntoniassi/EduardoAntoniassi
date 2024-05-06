@@ -7,7 +7,7 @@
 - 💻 I'm interested in the area of ​​developing mobile apps with AI integration
 - 🕹️ I'm passionate about music, games, computing and my favorite Pokémon is Ninetales
 
-📧 Contact me: eduardoantoniassi0@gmail.com
+#### 📧 Contact me: **eduardoantoniassi0@gmail.com**
 
 <!---
 EduardoAntoniassi/EduardoAntoniassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
