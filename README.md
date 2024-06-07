@@ -5,7 +5,7 @@
 
 - 🎓 I study at the State University of Paraná - UNESPAR
 - 💻 I'm interested in the area of ​​developing mobile apps with AI integration
-- 🕹️ I'm passionate about music, games, computing and my favorite Pokémon is Ninetales
+- 🕹️ I'm passionate about music, games, computing and my favorite Pokémon is Articuno
 
 #### 📧 Contact me: **eduardoantoniassi0@gmail.com**
 
